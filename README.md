@@ -47,27 +47,27 @@ Por conta das suas aplicabilidades, tornou-se um recurso básico e indispensáve
 Por ser uma commodity, o óleo cru tem o seu preço influenciado por pelo balanço de oferta e demanda e dados econômicos conforme ilustrado na figura abaixo:
 
 
-Figura 1- Fatores que influenciam o preço do óleo cru.png
+https://github.com/crisaltomari/brentPricePrediction/blob/main/Figura%201-%20Fatores%20que%20influenciam%20o%20pre%C3%A7o%20do%20%C3%B3leo%20cru.png
 
 Segundo U.S Energy Information Administration (EIA), os principais fatores que impactam o preço dessa commodity estão correlacionados conforme ilustrado na figura abaixo:  
 
 
-Figura 2 - U.S Energy Information Administration (EIA).png
+https://github.com/crisaltomari/brentPricePrediction/blob/main/Figura%202%20-%20U.S%20Energy%20Information%20Administration%20(EIA).png
 
 • Eventos Geopolíticos e Econômicos
 
 O preço do óleo cru acompanha os eventos econômicos e geopolíticos. Possíveis conflitos com as principais nações produtoras de óleo cru podem acarretar sérios problemas no suprimento dessa commodity, desbalançando os estoques e alterando, por conseguinte, o preço do petróleo.
 
 
-Figura 3 - U.S. Energy Information Administration, Refinitiv An LSEG Business.png
+https://github.com/crisaltomari/brentPricePrediction/blob/main/Figura%203%20-%20U.S.%20Energy%20Information%20Administration%2C%20Refinitiv%20An%20LSEG%20Business.png
 
 Isso se deve ao fato de que o consumo de óleo cru é impactado pelo crescimento econômico:
 
-Figura 4 - U.S. Energy Information Administration, Oxford Economics.png
+https://github.com/crisaltomari/brentPricePrediction/blob/main/Figura%204%20-%20U.S.%20Energy%20Information%20Administration%2C%20Oxford%20Economics.png
 
 Diante disso, expectativas no crescimento econômico afetam o preço do óleo cru:
 
-Figura 5 -  Oxford Economics.png
+https://github.com/crisaltomari/brentPricePrediction/blob/main/Figura%205%20-%20%20Oxford%20Economics.png
 
 • Oferta de Produto
 
@@ -76,7 +76,7 @@ A oferta está relacionada com a quantidade de óleo cru disponível ao redor do
 O gráfico abaixo explifica tal fato ao mostrar que interrupções não planejadas no fornecimento do óleo cru pressionam o incremento de preço.
 
 
-Figura 6 - U.S. Energy Information Administration.png
+https://github.com/crisaltomari/brentPricePrediction/blob/main/Figura%206%20-%20U.S.%20Energy%20Information%20Administration.png
 
 • Demanda de Produto
 
@@ -87,7 +87,7 @@ Diante do exposto, é possível notar na figura abaixo o aumento preço associad
 
 
 
-Figura 7- Short-Term Energy Outlook.png
+https://github.com/crisaltomari/brentPricePrediction/blob/main/Figura%207-%20Short-Term%20Energy%20Outlook.png
 
 Por conta da sua importância econômica e social e dos impactos no custo dessa commodity, foi desenvolvida uma ferramenta de predição de preço do óleo cru a qual será detalhada nos próximos capítulos.
 
@@ -115,7 +115,7 @@ Ao criar um modelo, é possível testá-lo (a própria interface do Visual Studi
 
 Os resultados obtidos das 5 simulações e desenvolvimentos de modelos encontram-se disponíveis no arquivo:
 
-medium_variablesxlsx.xlsx
+https://github.com/crisaltomari/brentPricePrediction/blob/main/medium_variablesxlsx.xlsx
 
 Os resultados mostraram um um baixo tempo de treinamento produziu um modelo com erro médio de 14% enquanto que modelos com tempo de treinamento a partir de 150 segundos, produziu modelos com erros médios entre 7 e 8%.
 
