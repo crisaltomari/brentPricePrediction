@@ -119,6 +119,7 @@ Os dados foram obtidos diretamente dos cálculos executados pela ferramenta ML.N
 Os melhores métodos de regressão e predição identificados pelo ML.NET para os dados utilizados foram:
 
 FastTreeTweedieRegression
+
 LbfgsPoissonRegressionRegression
 
 Observou-se que a partir de 150s de tempo de treinamento, apesar de obter melhores resultados de R^2, o erro médio foi praticamente o mesmo entre tempos de treinamento de 150s a 3600s.
