@@ -1,4 +1,4 @@
-# Título do Trabalho: Predição de Preços do Óleo Cru usando Ferramenta de Machine Learning e Predição de Dados
+# Predição de Preços do Óleo Cru usando Ferramenta de Machine Learning e Predição de Dados
 
 #### Aluno: [Cristiane Altomari Teixeira](https://github.com/crisaltomari)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
@@ -46,7 +46,7 @@ Por conta das suas aplicabilidades, tornou-se um recurso básico e indispensáve
 
 Por ser uma commodity, o óleo cru tem o seu preço influenciado por pelo balanço de oferta e demanda e dados econômicos conforme ilustrado na figura abaixo:
 
-
+![imagem1](./Figura%201-%20Fatores%20que%20influenciam%20o%20pre%C3%A7o%20do%20%C3%B3leo%20cru.png)
 https://github.com/crisaltomari/brentPricePrediction/blob/main/Figura%201-%20Fatores%20que%20influenciam%20o%20pre%C3%A7o%20do%20%C3%B3leo%20cru.png
 
 Segundo U.S Energy Information Administration (EIA), os principais fatores que impactam o preço dessa commodity estão correlacionados conforme ilustrado na figura abaixo:  
