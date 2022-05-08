@@ -50,7 +50,7 @@ Por ser uma commodity, o óleo cru tem o seu preço influenciado por pelo balan�
 
 Segundo U.S Energy Information Administration (EIA), os principais fatores que impactam o preço dessa commodity estão correlacionados conforme ilustrado na figura abaixo:  
 
-!imagem2](./Figura%202%20-%20U.S%20Energy%20Information%20Administration%20(EIA).png)
+![imagem2](./Figura%202%20-%20U.S%20Energy%20Information%20Administration%20(EIA).png)
 
 • Eventos Geopolíticos e Econômicos
 
